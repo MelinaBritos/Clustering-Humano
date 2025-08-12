@@ -70,6 +70,7 @@ personas para de nuevo enviarselos a la interfaz, la cual se ocupa de mostrar
 estos datos al usuario.
 
 Conclusión
+
 Durante el desarrollo de este trabajo práctico nos hemos encontrado con muchos
 conflictos, a los cuales encontramos solución repasando lo visto en clase,
 investigando por nuestra cuenta y probando distintas opciones para encontrar el
