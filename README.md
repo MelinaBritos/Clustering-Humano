@@ -11,17 +11,27 @@ Para la implementación del juego se utilizó Java como lenguaje de
 programación, siguiendo el patrón de diseño Model View Presenter para separar
 las vistas, desarrolladas con Swing y WindowBuilder, del código de negocios.
 Estructura de directorios:
+
 ● bfs/: Contiene los métodos necesarios para obtener las componentes
 conexas de un grafo y poder crear los grupos.
+
 ● model/: Contiene el código de negocios de la aplicación.
+
 ● presenter/: Contiene el código de la clase Presenter, que hace de
 intermediario entre la interfaz gráfica y el modelo de negocios.
+
 ● test/: Contiene los tests unitarios de las clases dentro del paquete model.
+
 ● view/: Contiene el diseño de la interfaz gráfica.
+
 Componentes principales
+
 ● model/Grafo.java
+
 ● model/Aplicacion.java
+
 ● presenter/Presenter.java
+
 ● view/View.java
 
 Decisiones de interfaz
